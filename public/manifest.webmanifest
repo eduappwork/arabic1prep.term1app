@@ -1,0 +1,14 @@
+{
+  "name": "رحلة العربية – الصف الأول الإعدادي",
+  "short_name": "رحلة العربية",
+  "description": "تطبيق تفاعلي لمنهج اللغة العربية مع الأستاذ محمد سعيد جعباص",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#315ccf",
+  "icons": [
+    { "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
